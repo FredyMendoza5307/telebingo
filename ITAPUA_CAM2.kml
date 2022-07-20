@@ -1,0 +1,3129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="root_doc">
+	<name>ITAPUA_CAM2.kml</name>
+	<Schema name="ITAPUA_CAM1" id="ITAPUA_CAM1">
+		<SimpleField type="string" name="cd"></SimpleField>
+		<SimpleField type="string" name="alim"></SimpleField>
+		<SimpleField type="string" name="localiza"></SimpleField>
+		<SimpleField type="string" name="material"></SimpleField>
+		<SimpleField type="string" name="aislacion"></SimpleField>
+		<SimpleField type="float" name="seccion"></SimpleField>
+		<SimpleField type="float" name="hilos"></SimpleField>
+		<SimpleField type="string" name="fecha"></SimpleField>
+		<SimpleField type="string" name="longitud"></SimpleField>
+		<SimpleField type="string" name="fase"></SimpleField>
+	</Schema>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f9ff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>f9ff55ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>ITAPUA_CAM1</name>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">11.09</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8406704683407,-27.3410222827613,0 -55.84056602074631,-27.340985939369,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">52.15</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8498152394989,-27.338893739493,0 -55.8497592581654,-27.3393617849841,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">70</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">20.09</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8227878967137,-27.3451954911351,0 -55.8228603054275,-27.3453649071344,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">100.61</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8394624769256,-27.3402671559911,0 -55.8392252898901,-27.3396794179383,0 -55.8389114847631,-27.3397219451959,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">226.55</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8426162077142,-27.3395784686587,0 -55.842112886442,-27.33956111773981,0 -55.840907778479,-27.339559156905,0 -55.84070952862281,-27.340047050315,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">5.18</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8554212520956,-27.3436262107673,0 -55.8554103696354,-27.3436719792746,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20190703</SimpleData>
+					<SimpleData name="longitud">65.89</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8433599585983,-27.3395325430287,0 -55.8435777218256,-27.3400946573653,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">50</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">19.65</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8435710394069,-27.3433865993374,0 -55.843663217825,-27.3435437116044,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">92.32</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8528347795927,-27.338122289354,0 -55.852671204502,-27.3380459306578,0 -55.8519831137698,-27.337782733965,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">26.67</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476587532064,-27.3396619550975,0 -55.8476541402894,-27.3399026696603,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20190703</SimpleData>
+					<SimpleData name="longitud">31.28</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8430540408142,-27.3386114131307,0 -55.84297621803509,-27.3383377894023,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">149.39</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8554212520956,-27.3436262107673,0 -55.8550940308801,-27.34278030699319,0 -55.8546618040944,-27.3425420585727,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101029</SimpleData>
+					<SimpleData name="longitud">142.67</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.849934764803,-27.34269802046339,0 -55.8499395616887,-27.3426837971507,0 -55.85033554113721,-27.3426133057412,0 -55.8506823235768,-27.342500432375,0 -55.8510823106344,-27.3423451170773,0 -55.8512806183498,-27.3422789546736,0 -55.8512850825606,-27.3422773665113,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20180413</SimpleData>
+					<SimpleData name="longitud">24.31</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8445074821798,-27.342649525009,0 -55.8445834576307,-27.3428582278512,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200420</SimpleData>
+					<SimpleData name="longitud">35.99</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.83980809875789,-27.346806622936,0 -55.840142921819,-27.3466795045021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20110613</SimpleData>
+					<SimpleData name="longitud">43.33</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8544764810436,-27.3471936482634,0 -55.854071392299,-27.3473424315243,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">57.74</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476337310435,-27.3409374576096,0 -55.8476225776849,-27.3414585899407,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">86.33</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8227878967137,-27.3451954911351,0 -55.8230310379372,-27.3450403795685,0 -55.82352209872219,-27.3447752403071,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">195.38</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8411432296644,-27.3467364644669,0 -55.8413986257844,-27.3471989642774,0 -55.8426827522706,-27.3467064424528,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">89.45</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8497592581654,-27.3393617849841,0 -55.84885850882139,-27.3392919874341,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">28.97</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8430540408142,-27.3386114131307,0 -55.8432914577808,-27.3384583842442,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">72.63</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8534025052438,-27.3381477129522,0 -55.85327369604521,-27.3383272879922,0 -55.8528347795927,-27.338122289354,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">95.47</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.83678722647309,-27.3427583105309,0 -55.8376085897,-27.3432107249526,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">211.45</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8519831137698,-27.337782733965,0 -55.8506541635357,-27.3372744123415,0 -55.8506246573881,-27.3375477810644,0 -55.8505860606208,-27.3378890490485,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">4.24</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84524364726779,-27.3428009494431,0 -55.8452527621777,-27.3428383066702,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20110613</SimpleData>
+					<SimpleData name="longitud">183.96</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8548830073716,-27.3458628671359,0 -55.85481726982991,-27.3460622783891,0 -55.8547566456587,-27.3462461146491,0 -55.8547044897122,-27.3465403314748,0 -55.85482557140449,-27.3468672026701,0 -55.85492621788261,-27.3470284394829,0 -55.8544764810436,-27.3471936482634,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20110613</SimpleData>
+					<SimpleData name="longitud">9.54</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8549102417548,-27.3457802216527,0 -55.8548830073716,-27.3458628671359,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">546.05</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.82352209872219,-27.3447752403071,0 -55.8237456687312,-27.3446544458877,0 -55.8243655302846,-27.3443110405386,0 -55.8250858742424,-27.3440438535076,0 -55.8258859895868,-27.3440148349599,0 -55.8275463406905,-27.3446506566312,0 -55.8286487617329,-27.3449151920203,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">335.59</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8410609739572,-27.3488120086133,0 -55.83934428007469,-27.3496011603834,0 -55.8396459789614,-27.350878199183,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">108.11</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84070952862281,-27.340047050315,0 -55.8406704683407,-27.3410222827613,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">30.64</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8334694543581,-27.3437707380851,0 -55.8337281151265,-27.3436185354515,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">105.88</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8479595001601,-27.3437746518474,0 -55.84770501254061,-27.3432516893692,0 -55.84761153892941,-27.3428870361376,0 -55.8476102414975,-27.3428756512982,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">78.79</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.85129972485969,-27.3420240060058,0 -55.8512426485532,-27.3413146384961,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">50.41</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8495870415798,-27.3427452572113,0 -55.8490823703042,-27.3428080805493,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">101.74</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8286487617329,-27.3449151920203,0 -55.829629243256,-27.3451923278603,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">30.49</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8490823703042,-27.3428080805493,0 -55.848829270951,-27.3428449014903,0 -55.8487775269335,-27.3428436625647,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">29.02</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8405289938556,-27.3416491223681,0 -55.84082221271581,-27.3416425290686,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20220627</SimpleData>
+					<SimpleData name="longitud">225.11</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.85538183871739,-27.3437923475689,0 -55.8549102417548,-27.3457802216527,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200131</SimpleData>
+					<SimpleData name="longitud">12.73</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8086521132016,-27.3491362454663,0 -55.8087281536,-27.3492289696596,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">7.61</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8524502959669,-27.3426813388024,0 -55.8524553034137,-27.342685893494,0 -55.8524857599292,-27.3427419312019,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">44.05</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8404375133021,-27.344998672314,0 -55.8408151523221,-27.3447879557659,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">126.85</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8554212520956,-27.3436262107673,0 -55.8551999271673,-27.3436008360894,0 -55.8545733893793,-27.3436393903846,0 -55.8541432895417,-27.343665832413,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">7.20</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8549830392236,-27.345779013088,0 -55.8549102417548,-27.3457802216527,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">57.00</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8399528518717,-27.3416443384713,0 -55.8405289938556,-27.3416491223681,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">53.58</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8384299597184,-27.3436631347233,0 -55.8388909028497,-27.3439170174328,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">95.47</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8376085897,-27.3432107249526,0 -55.8384299597184,-27.3436631347233,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">26.76</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476389590004,-27.3406959357194,0 -55.8476337310435,-27.3409374576096,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">70.01</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8433222301692,-27.3395348484663,0 -55.8426162077142,-27.3395784686587,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">124.53</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84193328900919,-27.3441959379762,0 -55.8416332262786,-27.3443544926879,0 -55.84085002864709,-27.3447684759336,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20110613</SimpleData>
+					<SimpleData name="longitud">20.74</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8548830073716,-27.3458628671359,0 -55.8546758667651,-27.3458339969981,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">3.47</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8388909028497,-27.3439170174328,0 -55.8388710223978,-27.3439428501273,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">147.63</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.83818572900629,-27.35115320851621,0 -55.8396459789614,-27.350878199183,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">169.10</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8505860606208,-27.3378890490485,0 -55.8504142155506,-27.3394077085072,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">90.12</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84665296838259,-27.3428145801895,0 -55.8462998259895,-27.3427992965063,0 -55.8457426721541,-27.3427856661202,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101029</SimpleData>
+					<SimpleData name="longitud">143.55</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8524502959669,-27.3426813388024,0 -55.8521216803402,-27.3423263107766,0 -55.8518448409802,-27.3421362716608,0 -55.851600318228,-27.3421650437977,0 -55.8512850825606,-27.3422773665113,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20180416</SimpleData>
+					<SimpleData name="longitud">14.15</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.849934764803,-27.34269802046339,0 -55.849793728015,-27.342719517087,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">3.74</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8433599585983,-27.3395325430287,0 -55.8433222301692,-27.3395348484663,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">155.91</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.840955308426,-27.3463278742187,0 -55.8404375133021,-27.344998672314,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20161018</SimpleData>
+					<SimpleData name="longitud">228.51</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8086521132016,-27.3491362454663,0 -55.8086441405044,-27.3491255255781,0 -55.81003983934,-27.3477333638764,0 -55.81011966278421,-27.3475666831683,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">7.18</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8404375133021,-27.344998672314,0 -55.8403658438309,-27.3449886890943,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">4.74</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422729956645,-27.3439675708124,0 -55.8422891552086,-27.3440078752666,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20170510</SimpleData>
+					<SimpleData name="longitud">0.78</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476241819698,-27.3417529766629,0 -55.8476162988274,-27.3417528213521,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">61.92</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84760099418331,-27.3409360139966,0 -55.8469758653382,-27.3409081067149,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">177.30</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8392352913928,-27.3440740624933,0 -55.84085002864709,-27.3447684759336,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">150</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20220627</SimpleData>
+					<SimpleData name="longitud">23.52</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8340164558085,-27.3433928289776,0 -55.8338735753918,-27.3432231910706,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">24.26</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.839479624089,-27.3403095451893,0 -55.8392378513212,-27.3403461721052,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">38.29</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8388909028497,-27.3439170174328,0 -55.83896528111021,-27.3439579867727,0 -55.8392352913928,-27.3440740624933,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">13.63</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8554103696354,-27.3436719792746,0 -55.85538183871739,-27.3437923475689,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">94.31</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8486034561514,-27.3399195252777,0 -55.8489774383905,-27.3399226075465,0 -55.8490327680518,-27.3404376079957,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">223.93</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8524857599292,-27.3427419312019,0 -55.8525162164746,-27.3427979689036,0 -55.8529764694306,-27.3436125635779,0 -55.85310593426689,-27.343644860517,0 -55.8541432895417,-27.343665832413,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">87.89</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476541402894,-27.3399026696603,0 -55.8476389590004,-27.3406959357194,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">103.34</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8482164263265,-27.3392523915021,0 -55.8476697074776,-27.3392186345484,0 -55.8476633651495,-27.339421330789,0 -55.8476587532064,-27.3396619550975,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">3.24</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476337310435,-27.3409374576096,0 -55.84760099418331,-27.3409360139966,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20151016</SimpleData>
+					<SimpleData name="longitud">815.66</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8106796258875,-27.3520036262615,0 -55.812491973062,-27.35117755236161,0 -55.81531470413109,-27.3502109032211,0 -55.8163487910187,-27.3494500281514,0 -55.817165701134,-27.3485384500075,0 -55.81763696557779,-27.3483029537794,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101019</SimpleData>
+					<SimpleData name="longitud">210.88</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8554212520956,-27.3436262107673,0 -55.8559138355825,-27.3435297749463,0 -55.8575035075946,-27.3432186241835,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">13.65</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8475950561012,-27.3427410223506,0 -55.8477327251992,-27.3427324089161,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">49.35</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422001860936,-27.3424627848388,0 -55.8417247851404,-27.342597769978,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">20.65</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.849793728015,-27.342719517087,0 -55.8495870415798,-27.3427452572113,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">3.91</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.83158823653591,-27.3449144484923,0 -55.8315714882711,-27.3448824428591,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">144.43</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8435493855831,-27.3433496798188,0 -55.8422891552086,-27.3440078752666,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">172.30</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8528080964956,-27.3381710874059,0 -55.8520439587744,-27.3395687049563,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">161.15</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8417247851404,-27.342597769978,0 -55.8422729956645,-27.3439675708124,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20151016</SimpleData>
+					<SimpleData name="longitud">408.22</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8087281536,-27.3492289696596,0 -55.8091495702344,-27.3497429511398,0 -55.8101491806426,-27.3521170903533,0 -55.8101577812272,-27.3521353079274,0 -55.81019997266029,-27.3521320566294,0 -55.8103841748093,-27.3521125028311,0 -55.8104638490421,-27.3521019880885,0 -55.8106796258875,-27.3520036262615,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">239.38</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8512426485532,-27.3413146384961,0 -55.8515377047787,-27.34062974143569,0 -55.85239267481699,-27.3410429881723,0 -55.852721049973,-27.3405672493248,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">13.73</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8475950561012,-27.3427410223506,0 -55.84760894313191,-27.342864356722,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">32.60</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476225776849,-27.3414585899407,0 -55.8476162988274,-27.3417528213521,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101119</SimpleData>
+					<SimpleData name="longitud">28.11</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.85129972485969,-27.3420240060058,0 -55.8512849917221,-27.3422763727833,0 -55.8512850825606,-27.3422773665113,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">227.60</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8315714882711,-27.3448824428591,0 -55.8322368315294,-27.3446727122105,0 -55.8332229422737,-27.3439211460281,0 -55.83331139010679,-27.3438636603414,0 -55.8334694543581,-27.3437707380851,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">126.16</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8485432419978,-27.3446392960271,0 -55.8484083011433,-27.3446966789888,0 -55.8479595001601,-27.3437746518474,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">149.82</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8408028552928,-27.3476300280013,0 -55.8410188872414,-27.3479992228672,0 -55.8408256074108,-27.348114970628,0 -55.8410609739572,-27.3488120086133,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">4.99</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.839479624089,-27.3403095451893,0 -55.8394624769256,-27.3402671559911,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20161018</SimpleData>
+					<SimpleData name="longitud">1.99</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.80996034391189,-27.3473159543551,0 -55.8099605358681,-27.3472979922314,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">202.68</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.829629243256,-27.3451923278603,0 -55.8297702487638,-27.345232145218,0 -55.8310975301116,-27.3451282555646,0 -55.83121264752071,-27.3449956185414,0 -55.8315714882711,-27.3448824428591,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">48.93</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.840955308426,-27.3463278742187,0 -55.8411432296644,-27.3467364644669,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">151.71</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8388710223978,-27.3439428501273,0 -55.83815267580561,-27.3448743375988,0 -55.8379121532565,-27.3447707819543,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">0.80</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422188408064,-27.3424575232262,0 -55.8422111353952,-27.3424597161237,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">124.17</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.840142921819,-27.3466795045021,0 -55.8406755916427,-27.3473862336132,0 -55.8408028552928,-27.3476300280013,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">50</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">4.62</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8435493855831,-27.3433496798188,0 -55.8435710394069,-27.3433865993374,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">37.93</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8337281151265,-27.3436185354515,0 -55.8338722346009,-27.3435057270039,0 -55.8340164558085,-27.3433928289776,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">38.04</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422641507214,-27.3440210280763,0 -55.84193328900919,-27.3441959379762,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">5.35</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8477082114011,-27.339903567085,0 -55.8476569704236,-27.3399026930085,0 -55.8476541402894,-27.3399026696603,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">63.67</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84885850882139,-27.3392919874341,0 -55.8482164263265,-27.3392523915021,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101029</SimpleData>
+					<SimpleData name="longitud">19.06</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8524502959669,-27.3426813388024,0 -55.8525888053039,-27.3425616941376,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">65.62</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84524364726779,-27.3428009494431,0 -55.8445834576307,-27.3428582278512,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">2.87</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422891552086,-27.3440078752666,0 -55.8422641507214,-27.3440210280763,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">S</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">A</SimpleData>
+					<SimpleData name="seccion">240</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20161018</SimpleData>
+					<SimpleData name="longitud">1.98</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8099605358681,-27.3472979922314,0 -55.80996072685951,-27.3472801203695,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">322.80</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.83678722647309,-27.3427583105309,0 -55.8361709841822,-27.3423920941237,0 -55.8350670421134,-27.3425634323829,0 -55.8346260974839,-27.3429115387569,0 -55.8340164558085,-27.3433928289776,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">65.00</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8504142155506,-27.3394077085072,0 -55.8497592581654,-27.3393617849841,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">1.14</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8422111353952,-27.3424597161237,0 -55.8422001860936,-27.3424627848388,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">49.40</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8457426721541,-27.3427856661202,0 -55.84524364726779,-27.3428009494431,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">79.66</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8406704683407,-27.3410222827613,0 -55.8406691643624,-27.3411475678123,0 -55.8404304534357,-27.3414045731826,0 -55.8405289938556,-27.3416491223681,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">4.07</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8408151523221,-27.3447879557659,0 -55.84085002864709,-27.3447684759336,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20160129</SimpleData>
+					<SimpleData name="longitud">615.60</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.81763696557779,-27.3483029537794,0 -55.8189728591478,-27.3476295575541,0 -55.8227878967137,-27.3451954911351,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">6.02</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8528347795927,-27.338122289354,0 -55.8528080964956,-27.3381710874059,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">157.75</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8452527621777,-27.3428383066702,0 -55.8454427577819,-27.3436426561604,0 -55.8454882901505,-27.3442431531994,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">109.50</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476162988274,-27.3417528213521,0 -55.8475950561012,-27.3427410223506,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">106.45</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8433599585983,-27.3395325430287,0 -55.8430757902707,-27.33868769162,0 -55.8430540408142,-27.3386114131307,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130104</SimpleData>
+					<SimpleData name="longitud">105.71</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.844471756141,-27.342867955719,0 -55.8435493855831,-27.3433496798188,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">53.06</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8482164263265,-27.3392523915021,0 -55.8483523225641,-27.3387890678565,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20180413</SimpleData>
+					<SimpleData name="longitud">297.61</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8435777218256,-27.3400946573653,0 -55.8445074821798,-27.342649525009,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">115.63</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8487775269335,-27.3428436625647,0 -55.84760894313191,-27.342864356722,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">125.24</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84070952862281,-27.340047050315,0 -55.8398953343607,-27.340246649466,0 -55.839479624089,-27.3403095451893,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">88.59</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8486034561514,-27.3399195252777,0 -55.8477082114011,-27.339903567085,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">94.79</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.84665296838259,-27.3428145801895,0 -55.8469640890421,-27.3428171489676,0 -55.84741439219449,-27.3428504745403,0 -55.84760894313191,-27.342864356722,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20200728</SimpleData>
+					<SimpleData name="longitud">49.51</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8396459789614,-27.350878199183,0 -55.8396541117768,-27.3509126598845,0 -55.8397712762777,-27.3513108243166,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20130222</SimpleData>
+					<SimpleData name="longitud">1.26</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8476102414975,-27.3428756512982,0 -55.84760894313191,-27.342864356722,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">D</SimpleData>
+					<SimpleData name="seccion">35</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20101125</SimpleData>
+					<SimpleData name="longitud">89.31</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.840142921819,-27.3466795045021,0 -55.840955308426,-27.3463278742187,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#ITAPUA_CAM1">
+					<SimpleData name="cd">CAM</SimpleData>
+					<SimpleData name="alim">CAM2</SimpleData>
+					<SimpleData name="localiza">A</SimpleData>
+					<SimpleData name="material">AA</SimpleData>
+					<SimpleData name="aislacion">PO</SimpleData>
+					<SimpleData name="seccion">185</SimpleData>
+					<SimpleData name="hilos">3</SimpleData>
+					<SimpleData name="fecha">20121017</SimpleData>
+					<SimpleData name="longitud">11.10</SimpleData>
+					<SimpleData name="fase">4</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-55.8445834576307,-27.3428582278512,0 -55.844471756141,-27.342867955719,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
